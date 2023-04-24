@@ -1,5 +1,7 @@
 When using the best.pt file, ultralytics needs to be installed and YOLO should be run from a terminal.
 
+The best.pt file has been modified to recognize my face and a Touhou Fumo Reimu plush toy.
+
 When playing the dragon game, Pygame, pgzero, numpy, random, and math need to be installed. Additionally, the assets in the image folder are required for the game to properly run.
 
 Dragon Game:
